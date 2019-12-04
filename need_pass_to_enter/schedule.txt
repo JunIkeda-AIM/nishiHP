@@ -1,0 +1,44 @@
+<p>
+<!--         下に活動予定を入力してください。                -->
+<!--         そこに入力された文字がHPに反映されます。        -->
+<!--         <span class="label label-info">New!!</span>は水色字。        -->
+<!--         <span class="label label-warning">New!!</span>は橙色字。        -->
+<!--         <span class="label label-primary">New!!</span>は青色字。        -->
+<!--         <span class="label label-success">New!!</span>は緑色字。        -->
+<!--         <span class="label label-default">New!!</span>は灰色字。        -->
+<!--         <span class="label label-danger">New!!</span>は赤色字。        -->
+<!-- ↓↓↓↓↓↓↓ 改行は　<br /> と入力してください。↓↓↓↓↓↓↓↓ 　 -->
+
+【予定一覧(大会など)】平成29年9月4日(月)更新<br />
+8月3日(木) off<br />
+8月5日(土) 三校戦(＠豊多摩高校)<br />
+8月6～10日(日～木) 合宿(＠西高会館)<br />
+8月11日(金) off<br />
+8月13日(日) off<br />
+8月18日(金) 午前練のあと、公式練習(＠石神井高/14:10-15:10/集合13:00)<br />
+8月20日(日) off<br />
+8月25～27日(金～日) 六校戦(＠石神井高校) <span class="label label-warning">準優勝おめでとう!!</span>  <span class="label label-danger">熱盛</span><br />
+8月28日(月) off<br />
+8月29日(火) off<br />
+8月30日(水) 午後練(13:00-17:00)<br />
+8月31日(木) 午後練(13:00-17:00)<br />
+<br />
+9月2日(土) OB戦(＠西高・西高会館)<br />
+9月9日(土) 紅白戦・引継ぎ会(＠西高・高井戸) <span class="label label-success">お疲れ様でした!!</span><br />
+9月21日(木) 午後練(13:00-17:00)<br />
+9月22日(金) 午前練(08:45-13:00)<br />
+9月23・24日(土・日) 新人戦(＠辰巳) <span class="label label-success">お疲れ様でした!!</span><br />
+9月30日(土) 長水路記録会(＠辰巳) <span class="label label-success">お疲れ様でした!!</span><br />
+10月7日(土) プール納め <br />
+<br />
+<br />
+【重要な予定】<br />
+11月下旬　11月定例会 <span class="label label-info">New!!</span><br />
+12月29日(金) 西高水泳部60番代忘年会 <span class="label label-info">New!!</span><br />
+
+
+
+<!-- ↑↑↑↑↑↑↑ 上に活動予定を入力してください。　　↑↑↑↑↑↑↑↑  　 -->
+<!--         そこに入力された文字がHPに反映されます。        -->
+<!--         改行は　<br />　と入力してください。           -->
+</p>

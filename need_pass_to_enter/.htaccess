@@ -1,0 +1,9 @@
+<Files ~ "^\.ht">
+deny from all
+</Files>
+
+# authenticate(Basic)
+AuthUserFile /var/www/html/nishiHP/need_pass_to_enter/.htpasswd
+AuthName "Please enter your ID and password"
+AuthType Basic
+require valid-user

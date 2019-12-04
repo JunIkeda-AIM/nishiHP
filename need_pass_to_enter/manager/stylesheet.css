@@ -1,0 +1,19 @@
+body {
+  color: rgb(216, 220, 227);
+}
+
+.subtitle {
+  border-bottom: dashed 1px rgb(134, 135, 136);
+}
+
+.report_name {
+  border-bottom: dashed 1px rgb(134, 134, 134);
+}
+
+.report_text {
+  margin-bottom:20px;
+}
+
+.report {
+  margin: 20px;
+}
